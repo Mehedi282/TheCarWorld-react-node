@@ -1,0 +1,95 @@
+/* Made with love by Mutiullah Samim*/
+
+ @import url('https://fonts.googleapis.com/css?family=Numans');
+
+
+
+.container-log{
+padding-top: 20rem;
+height: 100%;
+align-content: center;
+}
+
+.card-log{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h2{
+    letter-spacing: 1px;
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+ .icons-log{
+     height: 40px;
+ }
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+border-radius: 5px;
+border: 1px solid #FFC312;
+height: 23px;
+float: right;
+color: white;
+font-weight: bold;
+font-size: 12px;
+background-color: #FFC312;
+width: 100px;
+}
+
+.login_btn:hover{
+    font-weight: 800;
+    transition:  .3s ease-in-out;
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}

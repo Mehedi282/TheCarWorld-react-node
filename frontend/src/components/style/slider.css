@@ -1,0 +1,18 @@
+.slider{
+    max-width: 700px;
+    padding-top: 50px;
+    width: 100%;
+    margin: auto;
+}
+.slider img{
+    box-shadow: black 2px 2px 8px;
+    border: 1px black solid;
+    border-radius: 30px;
+    height: 100%;
+    width: 100%;
+}
+.logo-slider{
+    position: relative;
+    bottom: 280px;
+    left: -60px;
+}

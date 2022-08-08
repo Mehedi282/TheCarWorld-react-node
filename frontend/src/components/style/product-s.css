@@ -1,0 +1,108 @@
+.product-sep{
+    margin-top: 3.5%;
+}
+.p-name{
+    letter-spacing: 1px;
+    font-size: 37px;
+    margin-bottom: 2.5%;
+    color: white;
+}
+.p-img .main-img{
+    box-shadow: black 0px 3px 8px;
+    height: 90%;
+    width: 90%;
+}
+@media (max-width:1000px) {
+    .rightbar{
+        width: 250px;
+    }
+    .main-img{
+        width: 120%;
+        height: 100%;
+    }
+}
+
+.r-price{
+    font-weight: 700;
+    padding: 4%;
+    height: 10%;
+    justify-content:  center;
+    text-align: center;
+    background: red;
+    color: white;
+    margin-bottom:1rem;
+}
+.offer{
+    letter-spacing: 1px;
+    font-weight: 600;
+    padding: 4%;
+    height: 8%;
+    justify-content:  center;
+    text-align: center;
+    background: rgb(245, 245, 245);
+    color: rgba(0, 0, 0, 0.527);
+    margin-bottom: 3rem;
+}
+.offer:hover{
+    color: white;
+    background-color: red;
+}
+.d-icon{
+    width: 20px;
+}
+
+.details{
+    color: rgb(245, 245, 245);
+    border-radius: 5px;
+    padding: 15px;
+   background-color: rgba(0, 0, 0, 0.411);
+    
+}
+
+.details p{
+    font-size: 16px;
+}
+.card-bg{
+    margin-bottom:20% ;
+    background-color: rgba(0, 0, 0, 0.616);
+}
+.details .L{
+
+}
+.details .R{
+    float: right;
+}
+.image-set{
+    background: rgba(0, 0, 0, 0.548);
+    box-shadow: black 0px 3px 8px;
+
+}
+.image-set img{
+    margin: 20px;
+    height: 20%;
+    width: 15%;
+}
+
+.rightbar h2{
+    
+}
+
+/* VEHICLE DETAILS TABLE */
+.t-head{
+    margin-top: 4rem;
+}
+table{
+    margin-top: 3rem;
+}
+ table .vehicle-details__label,
+ .vehicle-details__value{
+    font-size: 12px;
+    padding: 10px;
+
+ }
+ .vehicle-d{
+     padding: 2%;
+     font-size: large;
+     height: 200px;
+     background-color: rgba(245, 245, 245, 0.842);
+ }

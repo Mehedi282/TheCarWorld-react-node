@@ -1,0 +1,45 @@
+.updv{
+  margin-top: 25px;
+  height: 450px;
+  overflow-y:auto
+}
+
+.post{
+  width: 250px;
+  margin: 10px;
+  margin-left: 30px;
+  height: 220px;
+  float: left;
+  background-color: black;
+  opacity: .8;
+}
+
+#carname{
+
+  text-align: left;
+  margin-bottom: 0;
+  margin-left: 30px;
+}
+
+#carmodel{
+  text-align: left;
+  margin-bottom: 8px;
+  margin-left: 30px;
+}
+
+.excar{
+  text-align: left;
+  margin-left: 35px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#image {
+  border-radius: 5px;
+}
+
+.dbtn{
+  background-color: red;
+  border-radius: 5px;
+  margin-top: 5px;
+  width: 80%;
+}

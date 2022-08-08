@@ -1,0 +1,16 @@
+.showroom-products{
+    box-shadow: black 2px 2px 10px;
+    border-radius: 5px;
+    padding-top: 7%;
+    background: rgba(0, 0, 0, 0.356);
+}
+.heading-s{
+    letter-spacing: 2px;
+    font-weight: 1100px;
+}
+
+.page-link{
+    font-size: 12px;
+    color: black;
+    padding: 10px;
+}

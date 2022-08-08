@@ -1,0 +1,76 @@
+.model{
+  background-color: black;
+  font-size: 50px;
+  padding: 50px;
+  padding-left: 100px;
+
+}
+
+.divmain{
+  float: left;
+  width: 100%;
+  height: 600px;
+
+}
+
+.imgdv{
+  float: left;
+  width: 60%;
+  height:600px;
+
+}
+
+.infodv{
+  float: left;
+  width: 40%;
+  height:600px;
+
+}
+
+#carimage{
+  margin: 40px;
+  height: 500;
+  width: 700;
+}
+.cprice{
+  margin: auto;
+  margin-top: 40px;
+  background-color: black;
+  color: White;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  height: 70px;
+  width: 350px;
+}
+
+.cinfo{
+  font-size: 20px;
+  width:300px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.binfo{
+  float: right;
+  padding-left: 10px;
+}
+
+.finfo{
+  opacity: .6;
+}
+
+.cardes{
+  font-size: 50px;
+  margin-left: 80px;
+  font-family: serif;
+}
+
+.deacribtion{
+  margin: 70px;
+  font-size: 25px;
+  margin-top: 10px;
+  opacity: .8;
+  font-family: sans-serif;
+}

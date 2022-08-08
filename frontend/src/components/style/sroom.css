@@ -1,0 +1,28 @@
+.mdiv{
+  width: 100%;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.srcdb1{
+  width: 30%;
+  float: left;
+  height: 200px;
+}
+
+.srcdb2{
+  width: 45%;
+  float: left;
+  height: 200px;
+   padding: 20px;
+}
+
+.srcdb3{
+  width: 25%;
+  float: left;
+  height: 200px;
+  padding: 20px;
+
+
+
+}
